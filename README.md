@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ulug'bek</h1>
 <h3 align="center">Back-end programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20programer%20image&imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F06%2F01%2F17%2F18%2F360_F_601171867_X85WpWCcMzNsoMWtMxiZQspKzaOwCyuK.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Ddeveloper%2Bcartoon&docid=LfiF16KcHDAXgM&tbnid=QGBDyxpRAn0ahM&vet=12ahUKEwjyk6-7gN6GAxWhMBAIHcvBDiMQM3oECEwQAA..i&w=540&h=360&hcb=2&ved=2ahUKEwjyk6-7gN6GAxWhMBAIHcvBDiMQM3oECEwQAA">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animted%20coding%20image&imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F06%2F01%2F17%2F18%2F360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Ddeveloper%2Bcartoon&docid=LfiF16KcHDAXgM&tbnid=s6wSpS44H7ORgM&vet=12ahUKEwjwtoqmvN-GAxVoHRAIHQyDDsUQM3oECE8QAA..i&w=540&h=360&hcb=2&ved=2ahUKEwjwtoqmvN-GAxVoHRAIHQyDDsUQM3oECE8QAA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uptuzover&label=Profile%20views&color=0e75b6&style=flat" alt="uptuzover" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uptuzover" alt="uptuzover" /></a> </p>
 
